@@ -21,3 +21,32 @@ header h1 {
   text-align: right;
   text-shadow: 5px 5px 7px #000000;
 }
+
+ul li {
+  display: inline-block;
+}
+
+.nava {
+  display: inline-block;
+  width: 130px;
+  height: 40px;
+  background-color: orange;
+}
+
+nav {
+
+}
+
+section {
+  padding: 5px;
+  margin: 5px;
+  border: double 4px black;
+}
+
+section article {
+  border: 3px solid black;
+  border-radius: 0px 20px 20px 20px;
+  margin: 5px 10px 5px 10px;
+  padding: 10px;
+  background: white;
+}
